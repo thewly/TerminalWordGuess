@@ -1,0 +1,23 @@
+{
+  "name": "inquirepackage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thewly/TerminalWordGuess.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thewly/TerminalWordGuess/issues"
+  },
+  "homepage": "https://github.com/thewly/TerminalWordGuess#readme",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "prompt": "^1.0.0"
+  }
+}
